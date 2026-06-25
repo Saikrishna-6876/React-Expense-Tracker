@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import '../Styles/Dashboard.css'
-import { Navigate, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Transactioncards from "../Components/Transactioncards";
 import RecentTransactions from "../Components/RecentTransactions";
 import NoTransactions from "../Components/NoTransactions";

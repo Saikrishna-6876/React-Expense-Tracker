@@ -1,5 +1,4 @@
-import { BrowserRouter, Routes,Route,Link } from 'react-router-dom';
-import React, { useEffect, useState } from 'react';
+import { BrowserRouter, Routes,Route} from 'react-router-dom';
 import Dashboard from './Pages/Dashboard';
 import Transactions from './Pages/Transactions';
 import Navbar from './Components/Navbar';
